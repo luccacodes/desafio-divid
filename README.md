@@ -19,7 +19,6 @@
 -   Axios
 -   Express
 -   CORS
--   MongoDB
 
 #### **Utilitários**
 
